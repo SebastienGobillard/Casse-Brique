@@ -16,7 +16,7 @@ var paddleX = (canvas.width-paddleWidth)/2; // le point de depart se situe uniqu
 var rightPressed = false; // la valeur par défaut pour les deux est falseparce qu'au début, les boutons de commande ne sont pas enfoncés.
 var leftPressed = false;
 // je donne des informations sur mes briques 
-// ici, nous avons défini le nombre de rangées et de colonnes de briques, leur largeur et leur hauteur, le rembourrage entre les briques afin qu'elles ne se touchent pas et un décalage supérieur et gauche afin qu'elles ne commencent pas à être tracées à partir du bord. de la toile.
+// ici, nous avons défini le nombre de rangées et de colonnes de briques, leur largeur et leur hauteur, le rembourrage entre les briques afin qu'elles ne se touchent pas et un décalage supérieur et gauche afin qu'elles ne commencent pas à être tracées à partir du bord de la toile.
 var brickRowCount = 5;
 var brickColumnCount = 3;
 var brickWidth = 75;

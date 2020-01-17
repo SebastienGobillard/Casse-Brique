@@ -1,2 +1,2 @@
 # casseBrique
-application javascript
+Jeu du Casse-Brique en Javascript.
